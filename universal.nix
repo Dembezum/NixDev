@@ -2,7 +2,6 @@
 
   environment.systemPackages = with pkgs; [
     # Networking tools
-    whois
     iperf3
     wget
     dnsutils
